@@ -1,0 +1,25 @@
+{
+  "name": "react_app",
+  "version": "1.0.0",
+  "description": "my first react app",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquadrehz/reactApp.git"
+  },
+  "author": "aquadrehz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquadrehz/reactApp/issues"
+  },
+  "homepage": "https://github.com/aquadrehz/reactApp#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
